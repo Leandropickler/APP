@@ -1,0 +1,6 @@
+{
+  "name": "Web Links",
+  "description": "App básico com botões para acessar o Google e a FMP (fmpsc.edu.br).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
